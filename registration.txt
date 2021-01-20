@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Registrtion Feature: login, username
+=======
+
+>>>>>>> registrtion
