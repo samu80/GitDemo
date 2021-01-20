@@ -1,1 +1,1 @@
-Registrtion Feature: login ,logout
+Registrtion Feature: login, username
